@@ -1,5 +1,5 @@
-lines = ["Hello world!"]
+A = ["Hello world!"]
 with open(r"C:\Users\User\Desktop\qwerty.txt", "w") as file:
-  for i in lines:
+  for i in A:
     file.write(i)
 print(i)
