@@ -1,5 +1,5 @@
 lines = ["Hello world!"]
-with open(r"C:\Users\User\Desktop\Hello world.txt", "w") as file:
-  for line in lines:
-    file.write(line)
-print(line)
+with open(r"C:\Users\User\Desktop\qwerty.txt", "w") as file:
+  for i in lines:
+    file.write(i)
+print(i)
