@@ -1,5 +1,4 @@
 A = ["Hello world!"]
-with open(r"C:\Users\User\Desktop\qwerty.txt", "w") as file:
+with open(r"C:\Users\Дедушка\OneDrive\Рабочий стол\qwerty.txt", "w") as file:
   for i in A:
-    file.write(i)
-
+    file.write(i
